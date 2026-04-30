@@ -1,1 +1,6 @@
-# Repo_FelipeGonzalez
+-Nombre del proyecto
+-Descripcion 
+-Instalacion 
+-uso 
+-Tecnologia 
+-Autores 
